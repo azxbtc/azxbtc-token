@@ -46,7 +46,7 @@ AZXBTC applies a 2% transfer tax:
 * 1% automatically supports staking rewards
 * 1% strengthens treasury and liquidity
 
-This mechanism helps maintain ecosystem sustainability and reward long-term participation.
+This mechanism supports ecosystem sustainability and rewards long-term participation.
 
 ---
 
@@ -103,6 +103,7 @@ This mechanism helps maintain ecosystem sustainability and reward long-term part
 
 * X: https://x.com/azx_btc
 * Telegram: https://t.me/Azxbtc_of
+
 ---
 
 ## Repository Contents
@@ -112,6 +113,7 @@ This mechanism helps maintain ecosystem sustainability and reward long-term part
 * tokenomics.md
 * roadmap.md
 * security.md
+* logo32.png
 
 ---
 
