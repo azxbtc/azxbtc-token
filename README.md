@@ -50,22 +50,30 @@ This mechanism helps maintain ecosystem sustainability and reward long-term part
 
 ---
 
+## Features
+
+* Fixed supply
+* Public staking system
+* Verified smart contracts
+* Locked liquidity
+* Transparent treasury model
+
+---
+
 ## Live Ecosystem
 
-* Public staking contract active
-* Verified smart contracts
+* Public staking active
 * Swap integration live
 * Transparency page public
-* Liquidity locked
+* Public documentation available
 
 ---
 
 ## Security
 
 * Smart contract verified
-* Public contract source available
-* Treasury model transparent
-* Community-based long-term growth
+* Public source code available
+* Transparent ecosystem documentation
 
 ---
 
@@ -94,7 +102,7 @@ This mechanism helps maintain ecosystem sustainability and reward long-term part
 ## Official Community
 
 * X: https://x.com/azx_btc
-* Telegram: (add official telegram link)
+* Telegram: https://t.me/Azxbtc_of
 
 ---
 
